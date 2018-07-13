@@ -1,0 +1,5 @@
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\bin\Release\Moscobutter.Test.dll
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\bin\Release\Moscobutter.Test.pdb
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\obj\Release\Moscobutter.Test.dll
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\obj\Release\Moscobutter.Test.pdb
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\obj\Release\Moscobutter.Test.csprojResolveAssemblyReference.cache

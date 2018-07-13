@@ -1,0 +1,4 @@
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\bin\Debug\Moscobutter.Test.dll
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\bin\Debug\Moscobutter.Test.pdb
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\obj\Debug\Moscobutter.Test.dll
+C:\Users\Moses_lebotsa\Documents\Dev\Moscobutter.Test\Moscobutter.Test\obj\Debug\Moscobutter.Test.pdb
